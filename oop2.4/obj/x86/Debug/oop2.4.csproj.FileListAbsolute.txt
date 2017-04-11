@@ -1,0 +1,19 @@
+F:\ООП 2\задачи\oop2.4\oop2.4\bin\Debug\oop2.4.exe
+F:\ООП 2\задачи\oop2.4\oop2.4\bin\Debug\oop2.4.pdb
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\oop2._4.FormStore.resources
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\oop2._4.Properties.Resources.resources
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\oop2.4.exe
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\oop2.4.pdb
+F:\ООП 2\задачи\oop2.4\oop2.4\bin\Debug\oop2.4.exe.config
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ООП 2\задачи\oop2.4\oop2.4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\oop2.4\oop2.4\bin\Debug\oop2.4.exe.config
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2.4.exe
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2.4.pdb
+C:\Users\User\Desktop\oop2.4\oop2.4\bin\Debug\oop2.4.exe
+C:\Users\User\Desktop\oop2.4\oop2.4\bin\Debug\oop2.4.pdb
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2.4.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2._4.FormStore.resources
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2._4.Properties.Resources.resources
+C:\Users\User\Desktop\oop2.4\oop2.4\obj\x86\Debug\oop2.4.csproj.GenerateResource.Cache
